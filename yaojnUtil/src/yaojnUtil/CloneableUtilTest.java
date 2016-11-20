@@ -1,6 +1,6 @@
 package yaojnUtil;
 
-public class CloneableTest {
+public class CloneableUtilTest {
 
 	/**
 	 * 通过继承实现对父类对象的深浅克隆
